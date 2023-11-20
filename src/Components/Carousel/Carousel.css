@@ -1,0 +1,21 @@
+
+
+.carousel-wrapper {
+  width: 100%;
+  margin: auto;
+}
+
+.slick-slide img {
+  width: 100%;
+  display: block;
+}
+
+/* These styles are optional and for customizing the default slick styles */
+.slick-dots li button:before {
+  color: #fff;
+}
+
+.slick-prev:before,
+.slick-next:before {
+  color: #000;
+}
